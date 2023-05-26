@@ -1,0 +1,17 @@
+# VS Code
+.vscode/**
+!.vscode/launch.json
+
+# Tmp folders
+obj/
+build/
+audios/**
+!audios/tetris.wav
+
+# Compiled files
+*.obj
+*.a
+*.dll
+*.d
+*.o
+*.exe
